@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "FitnessTest",
-    "currentPage": "rubbish.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "fitnessamp",
       "title": "FitnessAMP",
@@ -50,7 +50,7 @@
     "screenshot": "screenshot.png",
     "siteUrl": "https://breathepilatesstudio.com.au",
     "sitemapSwitcherAuto": "on",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/12278679-178671905814554-6409431870868768230-n-128x128.png",
     "noImageResize": "",
     "google-analytics": "",
     "sitemapSwitcher": "on",
