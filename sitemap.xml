@@ -1,8 +1,5 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://breathepilatesstudio.com.au/registration.html</loc>
-	</url>
-	<url>
 		<loc>https://breathepilatesstudio.com.au/appointments.html</loc>
 	</url>
 	<url>
@@ -73,5 +70,17 @@
 	</url>
 	<url>
 		<loc>https://breathepilatesstudio.com.au/page24.html</loc>
+	</url>
+	<url>
+		<loc>https://breathepilatesstudio.com.au/private.html</loc>
+	</url>
+	<url>
+		<loc>https://breathepilatesstudio.com.au/creche.html</loc>
+	</url>
+	<url>
+		<loc>https://breathepilatesstudio.com.au/register.html</loc>
+	</url>
+	<url>
+		<loc>https://breathepilatesstudio.com.au/old-registration.html</loc>
 	</url>
 </urlset>
